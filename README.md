@@ -1,6 +1,5 @@
-Here's an elaborate README.md for the GitHub repo on Frequent Itemset Mining:
 
-```markdown
+
 # Frequent Itemset Mining
 
 ## Overview
@@ -125,6 +124,3 @@ This project was completed as part of a course assignment. While it's not open f
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This README provides a comprehensive overview of the project, its background, implementation details, and instructions for usage. It's structured to give both technical and non-technical readers a clear understanding of the frequent itemset mining implementation using the Apriori algorithm.
